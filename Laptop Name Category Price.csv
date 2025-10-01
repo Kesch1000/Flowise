@@ -1,0 +1,12 @@
+Laptop Name,Category,Price (USD),Processor,GPU,RAM,Storage,Display Size,Display Type,Refresh Rate,Battery Life (Hours),Weight (lbs),Link,Description
+Samsung Galaxy Book 3 Ultra,Computer Science,2299,Intel Core i9-13900H,RTX 4070,32GB,1TB SSD,"16""",OLED 3K (2880x1800),120Hz,10,3.4,,
+Dell XPS 15,Computer Science,2499,Intel Core i9-13900H,RTX 4070,64GB,2TB SSD,"15.6""",OLED 3.5K (3456x2160),60Hz,14,4.3,,
+Apple MacBook Pro (M2 Max),Computer Science,2799,Apple M2 Max,M2 Integrated GPU,32GB,1TB SSD,"16.2""",mini-LED (3456x2234),120Hz,15,4.7,,
+Microsoft Surface Pro 9,Computer Science,1699,Intel Core i7-1260U,Integrated Iris Xe,16GB,512GB SSD,"13""",IPS 3K (2880x1920),120Hz,10,1.9,,
+Razer Blade 18 (2024),Gaming,3499,Intel Core i9-14900HX,RTX 4090,64GB,2TB SSD,"18""",Mini LED QHD+ (2560x1600),300Hz,2.5 (gaming),6.1,,
+Dell Alienware m18 R2 (2024),Gaming,2899,Intel Core i9-14900HX,RTX 4090,32GB,1TB SSD,"18""",IPS FHD+ (1920x1200),480Hz,2 (gaming),8.9,,
+ASUS ROG Zephyrus G14 (2024),Gaming,1899,AMD Ryzen 9 7940HS,RTX 4070,32GB,1TB SSD,"14""",OLED QHD (2560x1600),120Hz,6 (gaming),3.6,,
+Lenovo Legion Pro 5 Gen 8 16 (2023),Gaming,1599,AMD Ryzen 7 7745HX,RTX 4070,32GB,1TB SSD,"16""",IPS QHD+ (2560x1600),240Hz,5 (gaming),5.5,,
+ASUS TUF Gaming A16 Advantage Edition (2023),Gaming,1299,AMD Ryzen 9 7940HS,Radeon RX 7700S,16GB,512GB SSD,"16""",IPS QHD+ (2560x1600),240Hz,4 (gaming),5.1,,
+HP 240 G7,Low-Budget,299,Intel Celeron N4020,Intel UHD 600,4GB,1TB HDD,"14""",HD (1366x768),60Hz,6,3.2,,
+ASUS X543MA,Low-Budget,279,Intel Celeron N4000,Intel UHD 600,4GB,500GB HDD,"15.6""",HD (1366x768),60Hz,5,4.2,,
